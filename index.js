@@ -1,4 +1,7 @@
 // TODO: Add event listener for theme change button
+document.querySelector(".button").addEventListener("toggles",function(){
+    alert("theme changed");
+})
 
 // TODO: Add jQuery code for highlighting list items
 

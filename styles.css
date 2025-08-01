@@ -1,4 +1,12 @@
 /* TODO: Style navigation bar with Flexbox */
+.navigation-link{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 1px;
+    padding: 0;
+ }
 /* TODO: Media query for vertical stacking on small screens */
 /* TODO: Dark theme styles */
 /* TODO: Highlight class for list items */
