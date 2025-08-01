@@ -4,6 +4,7 @@ document.querySelector(".button").addEventListener("toggles",function(){
 })
 
 // TODO: Add jQuery code for highlighting list items
+$("button").toggle("change theme")
 
 // TODO: Add code for reset button
 

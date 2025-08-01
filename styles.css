@@ -9,4 +9,7 @@
  }
 /* TODO: Media query for vertical stacking on small screens */
 /* TODO: Dark theme styles */
+button{
+    background-color: black;
+}
 /* TODO: Highlight class for list items */
